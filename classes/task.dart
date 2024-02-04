@@ -2,7 +2,7 @@ class Task {
   // 1.
   // Az dili(4)
   // Riyaziyyat(8)
-  // Fizika(8)
+  // Fizika(8)  
   // Kimya(4)
   // ingilis dili(4)
 
